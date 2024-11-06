@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 pozdrav ls drugi puta
+=======
+pozdrav ls
+>>>>>>> 8d42b70 (commit datoteka)
 =======
 pozdrav ls
 >>>>>>> 8d42b70 (commit datoteka)
