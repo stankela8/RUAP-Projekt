@@ -1,1 +1,1 @@
-ggghghghg
+Moj repozitorij za kolegij RUAP
